@@ -4,22 +4,19 @@ Established in 1995, eBay, the world’s biggest online marketplace created a po
 
 - [Click here](https://ebay-clone-by-arshad-khan.netlify.app/) to preview this project.
 
-[ebay.in](https://sellglobal.ebay.in/seller-center/) 
+**Client:** [ebay.in](https://sellglobal.ebay.in/seller-center/) 
 
 ## Credits
 
 - Images : [ebay.in](https://sellglobal.ebay.in/seller-center/)
-- Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
+- Content : [ebay.in](https://sellglobal.ebay.in/seller-center/)
 - CSS Library: [Bootstrap](https://getbootstrap.com/) 
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
 
-## Tech Stack
+## 🛠 Tech Stack
 - HTML 
 - CSS 3
 - JavaScript
 - Github
-
-**Client:** [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
 
 ## Features
 - Media query for All Size Screen.
@@ -27,22 +24,6 @@ Established in 1995, eBay, the world’s biggest online marketplace created a po
 - Review page for different categories.
 - Detailed product preview page
 - Payment Page.
-
-## Credits
-
-- Images : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/)
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
-
-## 🛠 Tech Stack
-
-- HTML
-- CSS
-- Javascript
-- Bootstrap
-- Github
 
 ## Screenshots of our Project for Overview
 
