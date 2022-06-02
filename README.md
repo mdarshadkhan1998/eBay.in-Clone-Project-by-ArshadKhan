@@ -39,6 +39,13 @@ Established in 1995, eBay, the world’s biggest online marketplace created a po
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
 
+## Team
+
+- Md. Arshad khan
+- Abhinav Roy
+- Yogesh Kumar
+- Krishna Guduru
+- Prachi Tiwari
 
 ## 🔗 Authors
 Click the name to visit their Github Profile
