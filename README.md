@@ -22,17 +22,11 @@ Established in 1995, eBay, the world’s biggest online marketplace created a po
 **Client:** [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
 
 ## Features
-- Login | Sign Up | Profile | Offers and Toggled Navbars with their Pop-Ups.
-- Location Fetching using Geographical Location, lat and lng | custom Location Search.
-- Manual slider of products card for different categories.
-- Search bar for finding the product by it's name and viewing it.
-- Product page for different categories.
-- Detailed product preview page
-- Filters for custom price
-- Sort functions for High to Low and Low to High Price, Rating, Bestsellers, Name and Color.
-- Add to cart option for buying products.
-- Payment Page.
 - Media query for All Size Screen.
+- Navbars with its Pop-Ups.
+- Review page for different categories.
+- Detailed product preview page
+- Payment Page.
 
 ## Credits
 
@@ -57,7 +51,10 @@ Established in 1995, eBay, the world’s biggest online marketplace created a po
 ![Home page](./ebayHome.png)
 
 ## Challenges
-
+- The approach of the project was that we saw that are 6 navbars that are attached to the homepage. So that we have dived the project into parts.
+- Another problem was to merge all of the files in a proper sequence which was again a difficult task for us because while merging and connecting all the pages some of the pages had the same name, and while running the site it was redirecting to some other pages so it was difficult too.
+- Another issue is about adjusting the Navbar is one of the difficult things, on the home page, we had added the sliding video part which has taken a long time.
+- The popup part for the Navbar is the major task for us because when hovering on the Navbar we should get the popup in the correct way.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
 
@@ -69,5 +66,3 @@ Click the name to visit their Github Profile
 ## Support
 
 For support, email - [mdarshadkhan1998@gmail.com](mdarshadkhan1998@gmail.com)
-
-
